@@ -13,9 +13,7 @@ import {
   createStudent,
 } from "../utils/studentUtils";
 
-import {
-  useStudents,
-} from "../context/StudentContext";
+import { useStudents } from "../Context/StudentContext";
 
 function AddStudent() {
 

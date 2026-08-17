@@ -8,7 +8,7 @@ import StudentCard from "../components/StudentCard";
 import Loading from "../components/Loading";
 import ErrorMessage from "../components/ErrorMessage";
 
-import { useStudents } from "../context/StudentContext";
+import { useStudents } from "../Context/StudentContext";
 
 import {
   searchStudents,
