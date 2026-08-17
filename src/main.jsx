@@ -4,7 +4,7 @@ import { BrowserRouter } from "react-router-dom";
 
 
 import App from "./App";
-import { StudentProvider } from "./context/StudentContext.jsx";
+import { StudentProvider } from "./context/StudentContext";
 
 import "./index.css";
 
